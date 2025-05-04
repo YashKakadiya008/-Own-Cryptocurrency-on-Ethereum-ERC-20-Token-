@@ -33,7 +33,7 @@ This project implements the YDK Token (YDK), an ERC-20 compliant token on the Et
 
 1. Clone the repository:
    ```
-   git clone https://github.com/YOUR-USERNAME/ydk-token-sale.git
+   git clone https://github.com/YashKakadiya008/ydk-token-sale.git
    cd ydk-token-sale
    ```
 
@@ -91,3 +91,7 @@ This project is licensed under the MIT License.
 
 - OpenZeppelin for secure smart contract standards
 - Ethereum community for continuous support and development 
+
+![image](https://github.com/user-attachments/assets/bc5b731d-5273-49bc-9792-550c634dd6f2)
+![Screenshot 2025-05-04 132906](https://github.com/user-attachments/assets/265434d3-ebdc-4dd8-873c-8362729f1cde)
+
